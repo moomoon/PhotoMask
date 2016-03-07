@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "976BBEF51C8D27B900B8C767"
-               BuildableName = "PhotoMask.app"
+               BuildableName = "PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
                BlueprintName = "PhotoMask"
                ReferencedContainer = "container:PhotoMask.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "976BBF091C8D27B900B8C767"
-               BuildableName = "PhotoMaskTests.xctest"
+               BuildableName = "PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename.xctest"
                BlueprintName = "PhotoMaskTests"
                ReferencedContainer = "container:PhotoMask.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "976BBF141C8D27B900B8C767"
-               BuildableName = "PhotoMaskUITests.xctest"
+               BuildableName = "PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename.xctest"
                BlueprintName = "PhotoMaskUITests"
                ReferencedContainer = "container:PhotoMask.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "976BBEF51C8D27B900B8C767"
-            BuildableName = "PhotoMask.app"
+            BuildableName = "PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
             BlueprintName = "PhotoMask"
             ReferencedContainer = "container:PhotoMask.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "976BBEF51C8D27B900B8C767"
-            BuildableName = "PhotoMask.app"
+            BuildableName = "PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
             BlueprintName = "PhotoMask"
             ReferencedContainer = "container:PhotoMask.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "976BBEF51C8D27B900B8C767"
-            BuildableName = "PhotoMask.app"
+            BuildableName = "PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
             BlueprintName = "PhotoMask"
             ReferencedContainer = "container:PhotoMask.xcodeproj">
          </BuildableReference>
