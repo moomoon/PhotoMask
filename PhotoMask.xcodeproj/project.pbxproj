@@ -1914,6 +1914,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = PhotoMask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tv.kaipai.photoTest;
 				PRODUCT_NAME = PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename;
@@ -2041,6 +2042,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = PhotoMask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tv.kaipai.photoTest;
 				PRODUCT_NAME = PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename;
@@ -2061,6 +2063,7 @@
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = PhotoMask/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tv.kaipai.photoTest;
 				PRODUCT_NAME = PhotoMask.temp_caseinsensitive_rename.temp_caseinsensitive_rename;
